@@ -1,0 +1,32 @@
+.contact-form-container {
+  padding: 0 50px;
+}
+
+.contact-form-container h2 {
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
+
+.form-item {
+  margin: 20px 0;
+  line-height: 22px;
+  font-size: 0.8rem;
+}
+
+.contact__form input,
+.contact__form textarea {
+  border: none;
+  border-bottom: 1px solid #000;
+  width: 100%;
+  outline: none;
+}
+
+.form__button {
+  width: 108px;
+  padding: 6px;
+  color: #fff;
+  background-color: #b8b006;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,33 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 120px;
+  background-color: #2d2d2d;
+}
+
+.header__logo {
+  width: 60px;
+  border-radius: 50%;
+}
+
+.header__list {
+  width: 40%;
+}
+
+.header__list ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.link {
+  margin: 40px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.link:active {
+  color: #b8b006;
+}
